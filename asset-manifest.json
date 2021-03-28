@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FootballClubs/static/css/main.2161d51e.chunk.css",
+    "main.js": "/FootballClubs/static/js/main.27f02a14.chunk.js",
+    "main.js.map": "/FootballClubs/static/js/main.27f02a14.chunk.js.map",
+    "runtime-main.js": "/FootballClubs/static/js/runtime-main.65fdfc1c.js",
+    "runtime-main.js.map": "/FootballClubs/static/js/runtime-main.65fdfc1c.js.map",
+    "static/css/2.fe359a49.chunk.css": "/FootballClubs/static/css/2.fe359a49.chunk.css",
+    "static/js/2.1b57aadc.chunk.js": "/FootballClubs/static/js/2.1b57aadc.chunk.js",
+    "static/js/2.1b57aadc.chunk.js.map": "/FootballClubs/static/js/2.1b57aadc.chunk.js.map",
+    "static/js/3.cca0507c.chunk.js": "/FootballClubs/static/js/3.cca0507c.chunk.js",
+    "static/js/3.cca0507c.chunk.js.map": "/FootballClubs/static/js/3.cca0507c.chunk.js.map",
+    "index.html": "/FootballClubs/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/FootballClubs/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2161d51e.chunk.css.map": "/FootballClubs/static/css/main.2161d51e.chunk.css.map",
+    "static/js/2.1b57aadc.chunk.js.LICENSE.txt": "/FootballClubs/static/js/2.1b57aadc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65fdfc1c.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.1b57aadc.chunk.js",
+    "static/css/main.2161d51e.chunk.css",
+    "static/js/main.27f02a14.chunk.js"
+  ]
+}
